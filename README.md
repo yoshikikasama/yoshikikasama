@@ -8,7 +8,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a data engineer.
-- 🌱 I’m currently learning python and aws!
+- 🌱 I’m currently learning python, typescript and aws!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yk-linked-in/)
 <br>
 
