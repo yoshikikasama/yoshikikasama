@@ -25,16 +25,10 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃 Activities
 
-<div align="left">
-  <img
-    height="170px"
-    src="https://github-readme-stats.vercel.app/api?username=yoshikikasama&show_icons=true&theme=vue-dark"
-  />
-  <img
-    height="170px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshikikasama&layout=compact&theme=vue-dark"
-  />
-</div>
+<p align="left">
+  <img height="170"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=yoshikikasama&theme=dark" />
+</p>
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
